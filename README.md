@@ -4,7 +4,7 @@ This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 ## Demo 🚀
 
-You can play the game live here: [Demo Link](#)
+You can play the game live here: [Demo Link](https://atul-2004-dev.github.io/Rock-paper-scissor-game/)
 
 ## Features 🌟
 
@@ -12,6 +12,11 @@ You can play the game live here: [Demo Link](#)
 - Play against the computer.
 - Keeps track of scores.
 - Displays winner/loser at the end of each round.
+
+## Screenshots 📸
+
+![Screenshot 1](https://github.com/user-attachments/assets/0e579680-fb36-4826-bea2-05318502e16e)
+![Screenshot 2](https://github.com/user-attachments/assets/f23679fc-9561-440e-8534-d3e4e985d90a)
 
 ## How to Play ✋
 
